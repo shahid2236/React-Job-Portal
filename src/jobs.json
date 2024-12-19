@@ -1,0 +1,141 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Developer to join our team in Bangalore, India. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "location": "Bangalore, India",
+      "salary": "INR 14L - INR 16L",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "+91-9876543210"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "location": "Mumbai, India",
+      "description": "Join our team as a Front-End Developer in vibrant Mumbai, India. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "INR 14L - INR 16L",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "+91-9876543210"
+      }
+    },
+    {
+      "id": "3",
+      "title": "React Dev SDE 2",
+      "type": "Full-Time",
+      "location": "Hyderabad, India",
+      "description": "Are you passionate about front-end development? Join our team in vibrant Hyderabad, India, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+      "salary": "INR 14L - INR 16L",
+      "company": {
+        "contactEmail": "hyderabad@welcome.com"
+      }
+    },
+    {
+      "id": "4",
+      "title": "React Front-End Developer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Front-End Developer in beautiful Jaipur, India. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+      "location": "Jaipur, India",
+      "salary": "INR 12L - INR 14L",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "+91-9876543210"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack React Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Delhi, India. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "location": "Delhi, India",
+      "salary": "INR 18L - INR 20L",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "+91-9876543210"
+      }
+    },
+    {
+      "id": "6",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in beautiful Chennai, India. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "location": "Chennai, India",
+      "salary": "INR 20L - INR 22L",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "+91-9876543210"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Junior React Developer",
+      "type": "Full-Time",
+      "description": "Looking for a Junior React Developer to join our dynamic team in Pune, India. This is a great opportunity to work on challenging projects and grow your career.",
+      "location": "Pune, India",
+      "salary": "INR 8L - INR 10L",
+      "company": {
+        "name": "TechSpark Solutions",
+        "description": "TechSpark Solutions specializes in delivering custom software solutions to clients worldwide. Join our team to work on innovative projects in a collaborative environment.",
+        "contactEmail": "hr@techspark.com",
+        "contactPhone": "+91-9876543211"
+      }
+    },
+    {
+      "id": "8",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a React.js Developer for our growing team in Kolkata, India. The role involves working on modern web applications with a focus on performance and scalability.",
+      "location": "Kolkata, India",
+      "salary": "INR 10L - INR 12L",
+      "company": {
+        "name": "CodeCrafter",
+        "description": "CodeCrafter is a leading provider of software development services. We focus on creating top-notch web applications that delight our clients.",
+        "contactEmail": "jobs@codecrafter.com",
+        "contactPhone": "+91-9876543212"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Senior Frontend Engineer (React)",
+      "type": "Full-Time",
+      "description": "We are hiring a Senior Frontend Engineer for our office in Ahmedabad, India. If you have strong experience in React and love solving complex problems, join us!",
+      "location": "Ahmedabad, India",
+      "salary": "INR 18L - INR 22L",
+      "company": {
+        "name": "PixelWave",
+        "description": "PixelWave is a top-tier digital agency known for creating impactful digital experiences. Be part of our innovative and talented team.",
+        "contactEmail": "careers@pixelwave.com",
+        "contactPhone": "+91-9876543213"
+      }
+    },
+    {
+      "id": "10",
+      "title": "React Developer Intern",
+      "type": "Internship",
+      "description": "Join our team as a React Developer Intern in Lucknow, India. Gain hands-on experience in web development and work with a supportive team of professionals.",
+      "location": "Lucknow, India",
+      "salary": "INR 3L - INR 4L",
+      "company": {
+        "name": "Innovatech",
+        "description": "Innovatech is a startup focused on innovation in web development and digital solutions. Join us to learn and grow in a fast-paced environment.",
+        "contactEmail": "interns@innovatech.com",
+        "contactPhone": "+91-9876543214"
+      }
+    }
+  ]
+}
